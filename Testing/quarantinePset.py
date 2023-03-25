@@ -4,4 +4,4 @@ class solution(object):
     
     
     def findMoves():
-        
+        return
