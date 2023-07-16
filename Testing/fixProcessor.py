@@ -5,7 +5,7 @@ import pandas
 
 time_format = '%Y%m%d-%H:%M:%S.%f'
 
-file_path = 'C:/Users/Julia/Downloads/160723_100tps1min50new50cancel_FIX.4.4-LIZA_OM-DBS.messages.log'  # Replace with the actual file path
+file_path = ''  # Replace with the actual file path
 
 class CustomDateTime(datetime):
     def __str__(self):
