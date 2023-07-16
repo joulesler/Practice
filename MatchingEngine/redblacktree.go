@@ -9,7 +9,7 @@
 // Structure is not thread safe.
 //
 // References: http://en.wikipedia.org/wiki/Red%E2%80%93black_tree
-package redblacktree
+package main
 
 import (
 	"fmt"
